@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('https://images.wallpapersden.com/image/download/minimal-abstract-2021-art_bGxla2aUmZqaraWkpJRmbmdlrWZlbWU.jpg');
+    background-image: url('../img//background.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
