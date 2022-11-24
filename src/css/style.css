@@ -144,6 +144,10 @@ footer {
     background-color: rgb(33, 37, 41);
 }
 
+.bg-m:hover {
+    background-color: rgb(18, 20, 22);
+}
+
 .bg-s {
     border: 2px solid rgb(33, 37, 41);
     -webkit-background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(180, 180, 180, 1) 100%);
