@@ -250,7 +250,7 @@ footer {
 }
 
 .cb:checked~.h2~.list-services {
-    max-height: 30vh;
+    max-height: 60vh;
 }
 
 .cb:checked~.h2 {
